@@ -1,0 +1,471 @@
+INFO:root:T=1677662404.8590894 | domain=GLOBAL | msg=opto-cyto-reactors cod git id =5bd4dd78ac6acb02da07ca9952f93ca036c8ab53
+INFO:root:T= 1677662416.229105| Pinching front valves
+INFO:root:T= 1677662416.229105 | asked for command Valve F1 ON
+INFO:root:T= 1677662416.239105 | finished for command Valve F1 ON
+INFO:root:T= 1677662416.239105 | asked for command Valve F2 ON
+INFO:root:T= 1677662416.249105 | finished for command Valve F2 ON
+INFO:root:T= 1677662416.249105 | asked for command Valve F3 ON
+INFO:root:T= 1677662416.259105 | finished for command Valve F3 ON
+INFO:root:T= 1677662416.259105 | asked for command Valve F4 ON
+INFO:root:T= 1677662416.269105 | finished for command Valve F4 ON
+INFO:root:T= 1677662416.269105 | asked for command Valve F5 ON
+INFO:root:T= 1677662416.279105 | finished for command Valve F5 ON
+INFO:root:T= 1677662416.279105 | asked for command Valve F6 ON
+INFO:root:T= 1677662416.289105 | finished for command Valve F6 ON
+INFO:root:T= 1677662416.289105 | asked for command Valve F7 ON
+INFO:root:T= 1677662416.299105 | finished for command Valve F7 ON
+INFO:root:T= 1677662416.299105 | asked for command Valve F8 ON
+INFO:root:T= 1677662416.309105 | finished for command Valve F8 ON
+INFO:root:T= 1677662416.519106| Pinching front valves
+INFO:root:T= 1677662416.519106 | asked for command Valve F1 OFF
+INFO:root:T= 1677662416.529106 | finished for command Valve F1 OFF
+INFO:root:T= 1677662416.529106 | asked for command Valve F2 OFF
+INFO:root:T= 1677662416.539106 | finished for command Valve F2 OFF
+INFO:root:T= 1677662416.539106 | asked for command Valve F3 OFF
+INFO:root:T= 1677662416.549106 | finished for command Valve F3 OFF
+INFO:root:T= 1677662416.549106 | asked for command Valve F4 OFF
+INFO:root:T= 1677662416.559106 | finished for command Valve F4 OFF
+INFO:root:T= 1677662416.559106 | asked for command Valve F5 OFF
+INFO:root:T= 1677662416.569106 | finished for command Valve F5 OFF
+INFO:root:T= 1677662416.569106 | asked for command Valve F6 OFF
+INFO:root:T= 1677662416.579106 | finished for command Valve F6 OFF
+INFO:root:T= 1677662416.579106 | asked for command Valve F7 OFF
+INFO:root:T= 1677662416.589106 | finished for command Valve F7 OFF
+INFO:root:T= 1677662416.589106 | asked for command Valve F8 OFF
+INFO:root:T= 1677662416.599106 | finished for command Valve F8 OFF
+INFO:root:T= 1677662421.679113 | asked for opening Valve B1 for duration 10.000000 seconds
+INFO:root:T= 1677662421.679113 | asked for command Valve B1 ON
+INFO:root:T= 1677662421.699113 | finished for command Valve B1 ON
+INFO:root:T= 1677662421.699113 | asked for opening Valve B2 for duration 10.000000 seconds
+INFO:root:T= 1677662421.699113 | asked for command Valve B2 ON
+INFO:root:T= 1677662421.709113 | finished for command Valve B2 ON
+INFO:root:T= 1677662421.709113 | asked for opening Valve B3 for duration 10.000000 seconds
+INFO:root:T= 1677662421.709113 | asked for command Valve B3 ON
+INFO:root:T= 1677662421.719113 | finished for command Valve B3 ON
+INFO:root:T= 1677662421.719113 | asked for opening Valve B4 for duration 10.000000 seconds
+INFO:root:T= 1677662421.719113 | asked for command Valve B4 ON
+INFO:root:T= 1677662421.729113 | finished for command Valve B4 ON
+INFO:root:T= 1677662431.709127 | asked for command Valve B2 OFF
+INFO:root:T= 1677662431.709127 | asked for command Valve B1 OFF
+INFO:root:T= 1677662431.719127 | asked for command Valve B3 OFF
+INFO:root:T= 1677662431.719127 | finished for command Valve B1 OFF
+INFO:root:T= 1677662431.719127 | finished for command Valve B2 OFF
+INFO:root:T= 1677662431.729127 | asked for command Valve B4 OFF
+INFO:root:T= 1677662431.729127 | finished for command Valve B3 OFF
+INFO:root:T= 1677662431.739127 | finished for command Valve B4 OFF
+INFO:root:T= 1677662431.739127 | sending request blink/1 to the ot2
+INFO:root:T= 1677662431.769127 | Finished request blink/1 to the ot2
+INFO:root:T= 1677662431.769127 | asked for command Valve B1 ON
+INFO:root:T= 1677662431.779127 | finished for command Valve B1 ON
+INFO:root:T= 1677662431.779127 | asked for command Valve B2 ON
+INFO:root:T= 1677662431.789127 | finished for command Valve B2 ON
+INFO:root:T= 1677662431.789127 | asked for command Valve B3 ON
+INFO:root:T= 1677662431.799127 | finished for command Valve B3 ON
+INFO:root:T= 1677662431.799127 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677662432.899129 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 163.0 R3= 149.0 R4= 175.0
+INFO:root:T= 1677662433.979130 | received turbidity readings for turbi set 2: R5= 199.0 R6= 166.0 R7= 178.0 R8= 160.0
+INFO:root:T= 1677662439.089137 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 145.0 R4= 183.0
+INFO:root:T= 1677662440.209139 | received turbidity readings for turbi set 2: R5= 199.0 R6= 170.0 R7= 184.0 R8= 157.0
+INFO:root:T= 1677662445.269146 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 168.0 R3= 150.0 R4= 177.0
+INFO:root:T= 1677662446.349147 | received turbidity readings for turbi set 2: R5= 203.0 R6= 170.0 R7= 179.0 R8= 156.0
+INFO:root:T= 1677662451.449155 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 165.0 R3= 150.0 R4= 174.0
+INFO:root:T= 1677662452.539156 | received turbidity readings for turbi set 2: R5= 201.0 R6= 165.0 R7= 183.0 R8= 158.0
+INFO:root:T= 1677662457.649163 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 152.0 R4= 182.0
+INFO:root:T= 1677662458.749165 | received turbidity readings for turbi set 2: R5= 195.0 R6= 171.0 R7= 182.0 R8= 153.0
+INFO:root:T= 1677662463.859172 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 165.0 R3= 144.0 R4= 177.0
+INFO:root:T= 1677662464.969173 | received turbidity readings for turbi set 2: R5= 201.0 R6= 169.0 R7= 180.0 R8= 154.0
+INFO:root:T= 1677662464.979173 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 165.83333333333334, 3: 148.33333333333334, 4: 178.0, 5: 199.66666666666666, 6: 168.5, 7: 181.0, 8: 156.33333333333334}
+INFO:root:T= 1677662464.999173 | applied calibration on turbidity readings average {1: 2, 2: 0.578280312272371, 3: 0.5616532771902261, 4: 0.6464427921368547, 5: 0.7311859493245576, 6: 0.6372366215860081, 7: 0.677149498150106, 8: 0.5331633104864775}
+INFO:root:T= 1677662465.009173 | asked for command Valve B1 OFF
+INFO:root:T= 1677662465.019174 | finished for command Valve B1 OFF
+INFO:root:T= 1677662465.019174 | asked for command Valve B2 OFF
+INFO:root:T= 1677662465.029174 | finished for command Valve B2 OFF
+INFO:root:T= 1677662465.029174 | asked for command Valve B3 OFF
+INFO:root:T= 1677662465.039174 | finished for command Valve B3 OFF
+INFO:root:T= 1677662465.039174 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677662465.039174 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677662465.039174 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677662465.039174 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677662465.049174 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677662465.049174 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677662465.049174 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677662465.059174 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677662465.059174 | sending request gotobin to the ot2
+INFO:root:T= 1677662465.099174 | Finished request gotobin to the ot2
+INFO:root:T= 1677662465.099174 | asked for opening Pump H1 for duration 12.000000 seconds
+INFO:root:T= 1677662465.099174 | asked for command Pump H1 ON
+INFO:root:T= 1677662465.109174 | finished for command Pump H1 ON
+INFO:root:T= 1677662465.109174 | asked for opening Pump H2 for duration 12.000000 seconds
+INFO:root:T= 1677662465.109174 | asked for command Pump H2 ON
+INFO:root:T= 1677662465.119174 | finished for command Pump H2 ON
+INFO:root:T= 1677662465.119174 | asked for opening Pump H3 for duration 12.000000 seconds
+INFO:root:T= 1677662465.119174 | asked for command Pump H3 ON
+INFO:root:T= 1677662465.129174 | finished for command Pump H3 ON
+INFO:root:T= 1677662465.129174 | asked for opening Pump H4 for duration 12.000000 seconds
+INFO:root:T= 1677662465.129174 | asked for command Pump H4 ON
+INFO:root:T= 1677662465.139174 | finished for command Pump H4 ON
+INFO:root:T= 1677662465.139174 | asked for opening Pump H5 for duration 12.000000 seconds
+INFO:root:T= 1677662465.139174 | asked for command Pump H5 ON
+INFO:root:T= 1677662465.149174 | finished for command Pump H5 ON
+INFO:root:T= 1677662465.149174 | asked for opening Pump H6 for duration 12.000000 seconds
+INFO:root:T= 1677662465.149174 | asked for command Pump H6 ON
+INFO:root:T= 1677662465.159174 | finished for command Pump H6 ON
+INFO:root:T= 1677662465.159174 | asked for opening Pump H7 for duration 12.000000 seconds
+INFO:root:T= 1677662465.159174 | asked for command Pump H7 ON
+INFO:root:T= 1677662465.169174 | finished for command Pump H7 ON
+INFO:root:T= 1677662465.169174 | asked for opening Pump H8 for duration 12.000000 seconds
+INFO:root:T= 1677662465.169174 | asked for command Pump H8 ON
+INFO:root:T= 1677662465.179174 | finished for command Pump H8 ON
+INFO:root:T= 1677662477.129190 | asked for command Pump H2 OFF
+INFO:root:T= 1677662477.129190 | asked for command Pump H1 OFF
+INFO:root:T= 1677662477.139190 | asked for command Pump H3 OFF
+INFO:root:T= 1677662477.139190 | finished for command Pump H2 OFF
+INFO:root:T= 1677662477.149190 | finished for command Pump H1 OFF
+INFO:root:T= 1677662477.149190 | finished for command Pump H3 OFF
+INFO:root:T= 1677662477.159190 | asked for command Pump H4 OFF
+INFO:root:T= 1677662477.159190 | asked for command Pump H5 OFF
+INFO:root:T= 1677662477.169191 | asked for command Pump H7 OFF
+INFO:root:T= 1677662477.169191 | asked for command Pump H6 OFF
+INFO:root:T= 1677662477.169191 | finished for command Pump H4 OFF
+INFO:root:T= 1677662477.169191 | finished for command Pump H5 OFF
+INFO:root:T= 1677662477.189191 | asked for command Pump H8 OFF
+INFO:root:T= 1677662477.189191 | finished for command Pump H7 OFF
+INFO:root:T= 1677662477.189191 | finished for command Pump H6 OFF
+INFO:root:T= 1677662477.199191 | finished for command Pump H8 OFF
+INFO:root:T= 1677662477.199191 | sending request blink/2 to the ot2
+INFO:root:T= 1677662477.229191 | Finished request blink/2 to the ot2
+INFO:root:T= 1677662477.229191 | sending request blink/3 to the ot2
+INFO:root:T= 1677662477.249191 | Finished request blink/3 to the ot2
+INFO:root:T= 1677662480.999196 | asked for LEDs duty history all_reactors from time 0.000000
+INFO:root:T= 1677662482.0191975| Starting to check events
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 1
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 2
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 3
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 4
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 5
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 6
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 7
+INFO:root:T= 1677662482.0191975| Starting to check events of reactor id 8
+INFO:root:T= 1677662551.819295 | sending request blink/1 to the ot2
+INFO:root:T= 1677662551.849295 | Finished request blink/1 to the ot2
+INFO:root:T= 1677662551.849295 | asked for command Valve B1 ON
+WARNING:root:reading Valve B1 state not successful, trying again
+INFO:root:T= 1677662557.899304 | finished for command Valve B1 ON
+INFO:root:T= 1677662557.899304 | asked for command Valve B2 ON
+INFO:root:T= 1677662557.909304 | finished for command Valve B2 ON
+INFO:root:T= 1677662557.909304 | asked for command Valve B3 ON
+INFO:root:T= 1677662557.919304 | finished for command Valve B3 ON
+INFO:root:T= 1677662557.919304 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677662559.049305 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 162.0 R3= 154.0 R4= 184.0
+INFO:root:T= 1677662560.139307 | received turbidity readings for turbi set 2: R5= 200.0 R6= 173.0 R7= 178.0 R8= 155.0
+INFO:root:T= 1677662565.249314 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 166.0 R3= 150.0 R4= 186.0
+INFO:root:T= 1677662566.359315 | received turbidity readings for turbi set 2: R5= 200.0 R6= 169.0 R7= 184.0 R8= 158.0
+INFO:root:T= 1677662571.499323 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 169.0 R3= 150.0 R4= 179.0
+INFO:root:T= 1677662572.619324 | received turbidity readings for turbi set 2: R5= 197.0 R6= 171.0 R7= 178.0 R8= 160.0
+INFO:root:T= 1677662577.739331 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 161.0 R3= 148.0 R4= 187.0
+INFO:root:T= 1677662578.829333 | received turbidity readings for turbi set 2: R5= 203.0 R6= 167.0 R7= 181.0 R8= 158.0
+INFO:root:T= 1677662583.939340 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 165.0 R3= 149.0 R4= 177.0
+INFO:root:T= 1677662585.059342 | received turbidity readings for turbi set 2: R5= 198.0 R6= 169.0 R7= 182.0 R8= 159.0
+INFO:root:T= 1677662590.169349 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 144.0 R4= 183.0
+INFO:root:T= 1677662591.249350 | received turbidity readings for turbi set 2: R5= 198.0 R6= 172.0 R7= 181.0 R8= 160.0
+INFO:root:T= 1677662591.259350 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 165.0, 3: 149.16666666666666, 4: 182.66666666666666, 5: 199.33333333333334, 6: 170.16666666666666, 7: 180.66666666666666, 8: 158.33333333333334}
+INFO:root:T= 1677662591.269350 | applied calibration on turbidity readings average {1: 2, 2: 0.5739897824519824, 3: 0.5662172412638311, 4: 0.6680213118322329, 5: 0.7297323274600451, 6: 0.6454699032551279, 7: 0.6755716281342954, 8: 0.5441614006435014}
+INFO:root:T= 1677662591.279350 | asked for command Valve B1 OFF
+INFO:root:T= 1677662591.289351 | finished for command Valve B1 OFF
+INFO:root:T= 1677662591.289351 | asked for command Valve B2 OFF
+INFO:root:T= 1677662591.299350 | finished for command Valve B2 OFF
+INFO:root:T= 1677662591.299350 | asked for command Valve B3 OFF
+INFO:root:T= 1677662591.309350 | finished for command Valve B3 OFF
+INFO:root:T= 1677662591.309350 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677662591.309350 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677662591.309350 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677662591.319350 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677662591.319350 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677662591.319350 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677662591.329350 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677662591.329350 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677662591.329350 | sending request gotobin to the ot2
+INFO:root:T= 1677662591.369350 | Finished request gotobin to the ot2
+INFO:root:T= 1677662591.369350 | sending request blink/2 to the ot2
+INFO:root:T= 1677662591.399351 | Finished request blink/2 to the ot2
+INFO:root:T= 1677662591.399351 | sending request blink/3 to the ot2
+INFO:root:T= 1677662591.429350 | Finished request blink/3 to the ot2
+INFO:root:T= 1677662595.899357 | asked for LEDs duty history all_reactors from time 0.000000
+INFO:root:T= 1677662596.909358| Starting to check events
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 1
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 2
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 3
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 4
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 5
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 6
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 7
+INFO:root:T= 1677662596.909358| Starting to check events of reactor id 8
+INFO:root:T= 1677662671.909463 | sending request blink/1 to the ot2
+INFO:root:T= 1677662671.939463 | Finished request blink/1 to the ot2
+INFO:root:T= 1677662671.939463 | asked for command Valve B1 ON
+WARNING:root:reading Valve B1 state not successful, trying again
+INFO:root:T= 1677662677.979472 | finished for command Valve B1 ON
+INFO:root:T= 1677662677.979472 | asked for command Valve B2 ON
+INFO:root:T= 1677662677.989472 | finished for command Valve B2 ON
+INFO:root:T= 1677662677.989472 | asked for command Valve B3 ON
+INFO:root:T= 1677662677.999472 | finished for command Valve B3 ON
+INFO:root:T= 1677662677.999472 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677662679.109473 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 166.0 R3= 151.0 R4= 183.0
+INFO:root:T= 1677662680.219475 | received turbidity readings for turbi set 2: R5= 198.0 R6= 172.0 R7= 184.0 R8= 155.0
+INFO:root:T= 1677662685.309482 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 144.0 R4= 177.0
+INFO:root:T= 1677662686.409483 | received turbidity readings for turbi set 2: R5= 200.0 R6= 176.0 R7= 178.0 R8= 160.0
+INFO:root:T= 1677662691.529491 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 163.0 R3= 150.0 R4= 178.0
+INFO:root:T= 1677662692.669492 | received turbidity readings for turbi set 2: R5= 201.0 R6= 170.0 R7= 185.0 R8= 159.0
+INFO:root:T= 1677662697.799500 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 160.0 R3= 150.0 R4= 175.0
+INFO:root:T= 1677662698.969501 | received turbidity readings for turbi set 2: R5= 199.0 R6= 173.0 R7= 185.0 R8= 161.0
+INFO:root:T= 1677662704.089508 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 160.0 R3= 146.0 R4= 173.0
+INFO:root:T= 1677662705.219510 | received turbidity readings for turbi set 2: R5= 201.0 R6= 169.0 R7= 182.0 R8= 152.0
+INFO:root:T= 1677662710.329517 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 161.0 R3= 152.0 R4= 180.0
+INFO:root:T= 1677662711.429519 | received turbidity readings for turbi set 2: R5= 200.0 R6= 169.0 R7= 186.0 R8= 158.0
+INFO:root:T= 1677662711.439518 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 162.83333333333334, 3: 148.83333333333334, 4: 177.66666666666666, 5: 199.83333333333334, 6: 171.5, 7: 183.33333333333334, 8: 157.5}
+INFO:root:T= 1677662711.449519 | applied calibration on turbidity readings average {1: 2, 2: 0.5627321820536384, 3: 0.5643947227040984, 4: 0.6448798879908222, 5: 0.7319118504793236, 6: 0.6519986752425782, 7: 0.6881138926843349, 8: 0.5395958415435897}
+INFO:root:T= 1677662711.459519 | asked for command Valve B1 OFF
+INFO:root:T= 1677662711.469519 | finished for command Valve B1 OFF
+INFO:root:T= 1677662711.469519 | asked for command Valve B2 OFF
+INFO:root:T= 1677662711.479519 | finished for command Valve B2 OFF
+INFO:root:T= 1677662711.479519 | asked for command Valve B3 OFF
+INFO:root:T= 1677662711.489519 | finished for command Valve B3 OFF
+INFO:root:T= 1677662711.489519 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677662711.489519 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677662711.489519 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677662711.489519 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677662711.499519 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677662711.499519 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677662711.499519 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677662711.499519 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677662711.499519 | sending request gotobin to the ot2
+INFO:root:T= 1677662711.539519 | Finished request gotobin to the ot2
+INFO:root:T= 1677662711.539519 | sending request blink/2 to the ot2
+INFO:root:T= 1677662711.569519 | Finished request blink/2 to the ot2
+INFO:root:T= 1677662711.569519 | sending request blink/3 to the ot2
+INFO:root:T= 1677662711.589519 | Finished request blink/3 to the ot2
+INFO:root:T= 1677662716.039525 | asked for LEDs duty history all_reactors from time 0.000000
+INFO:root:T= 1677662717.0495262| Starting to check events
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 1
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 2
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 3
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 4
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 5
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 6
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 7
+INFO:root:T= 1677662717.0495262| Starting to check events of reactor id 8
+INFO:root:T= 1677662791.949631 | sending request blink/1 to the ot2
+INFO:root:T= 1677662791.969631 | Finished request blink/1 to the ot2
+INFO:root:T= 1677662791.969631 | asked for command Valve B1 ON
+WARNING:root:reading Valve B1 state not successful, trying again
+INFO:root:T= 1677662798.009640 | finished for command Valve B1 ON
+INFO:root:T= 1677662798.009640 | asked for command Valve B2 ON
+INFO:root:T= 1677662798.019640 | finished for command Valve B2 ON
+INFO:root:T= 1677662798.019640 | asked for command Valve B3 ON
+INFO:root:T= 1677662798.029640 | finished for command Valve B3 ON
+INFO:root:T= 1677662798.029640 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677662799.189641 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 163.0 R3= 152.0 R4= 187.0
+INFO:root:T= 1677662800.289643 | received turbidity readings for turbi set 2: R5= 199.0 R6= 174.0 R7= 180.0 R8= 159.0
+INFO:root:T= 1677662805.349650 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 148.0 R4= 186.0
+INFO:root:T= 1677662806.479652 | received turbidity readings for turbi set 2: R5= 207.0 R6= 174.0 R7= 182.0 R8= 161.0
+INFO:root:T= 1677662811.609659 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 170.0 R3= 151.0 R4= 179.0
+INFO:root:T= 1677662812.749660 | received turbidity readings for turbi set 2: R5= 201.0 R6= 174.0 R7= 180.0 R8= 160.0
+INFO:root:T= 1677662817.909667 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 166.0 R3= 155.0 R4= 179.0
+INFO:root:T= 1677662819.009669 | received turbidity readings for turbi set 2: R5= 202.0 R6= 170.0 R7= 182.0 R8= 159.0
+INFO:root:T= 1677662824.119676 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 168.0 R3= 151.0 R4= 182.0
+INFO:root:T= 1677662825.219678 | received turbidity readings for turbi set 2: R5= 198.0 R6= 168.0 R7= 178.0 R8= 164.0
+INFO:root:T= 1677662830.289685 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 165.0 R3= 153.0 R4= 182.0
+INFO:root:T= 1677662831.369687 | received turbidity readings for turbi set 2: R5= 202.0 R6= 171.0 R7= 181.0 R8= 165.0
+INFO:root:T= 1677662831.369687 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 166.5, 3: 151.66666666666666, 4: 182.5, 5: 201.5, 6: 171.83333333333334, 7: 180.5, 8: 161.33333333333334}
+INFO:root:T= 1677662831.389687 | applied calibration on turbidity readings average {1: 2, 2: 0.5816972411009305, 3: 0.5797576990622906, 4: 0.6672601898097059, 5: 0.7391377432106028, 6: 0.6536229372374214, 7: 0.6747816010904906, 8: 0.560400757441883}
+INFO:root:T= 1677662831.409687 | asked for command Valve B1 OFF
+INFO:root:T= 1677662831.419686 | finished for command Valve B1 OFF
+INFO:root:T= 1677662831.419686 | asked for command Valve B2 OFF
+INFO:root:T= 1677662831.459687 | finished for command Valve B2 OFF
+INFO:root:T= 1677662831.459687 | asked for command Valve B3 OFF
+INFO:root:T= 1677662831.469687 | finished for command Valve B3 OFF
+INFO:root:T= 1677662831.469687 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677662831.469687 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677662831.469687 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677662831.469687 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677662831.479687 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677662831.479687 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677662831.479687 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677662831.479687 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677662831.489686 | sending request gotobin to the ot2
+INFO:root:T= 1677662831.519687 | Finished request gotobin to the ot2
+INFO:root:T= 1677662831.519687 | sending request blink/2 to the ot2
+INFO:root:T= 1677662831.539687 | Finished request blink/2 to the ot2
+INFO:root:T= 1677662831.539687 | sending request blink/3 to the ot2
+INFO:root:T= 1677662831.569687 | Finished request blink/3 to the ot2
+INFO:root:T= 1677662835.279692 | asked for LEDs duty history all_reactors from time 0.000000
+INFO:root:T= 1677662836.289693| Starting to check events
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 1
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 2
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 3
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 4
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 5
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 6
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 7
+INFO:root:T= 1677662836.289693| Starting to check events of reactor id 8
+INFO:root:T= 1677662911.989799 | sending request blink/1 to the ot2
+INFO:root:T= 1677662912.019799 | Finished request blink/1 to the ot2
+INFO:root:T= 1677662912.019799 | asked for command Valve B1 ON
+WARNING:root:reading Valve B1 state not successful, trying again
+INFO:root:T= 1677662918.079808 | finished for command Valve B1 ON
+INFO:root:T= 1677662918.079808 | asked for command Valve B2 ON
+INFO:root:T= 1677662918.089808 | finished for command Valve B2 ON
+INFO:root:T= 1677662918.089808 | asked for command Valve B3 ON
+INFO:root:T= 1677662918.099808 | finished for command Valve B3 ON
+INFO:root:T= 1677662918.099808 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677662919.199809 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 161.0 R3= 148.0 R4= 184.0
+INFO:root:T= 1677662920.309811 | received turbidity readings for turbi set 2: R5= 202.0 R6= 172.0 R7= 181.0 R8= 162.0
+INFO:root:T= 1677662925.409818 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 164.0 R3= 155.0 R4= 177.0
+INFO:root:T= 1677662926.499820 | received turbidity readings for turbi set 2: R5= 200.0 R6= 175.0 R7= 184.0 R8= 163.0
+INFO:root:T= 1677662931.589827 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 162.0 R3= 153.0 R4= 174.0
+INFO:root:T= 1677662932.659828 | received turbidity readings for turbi set 2: R5= 198.0 R6= 171.0 R7= 184.0 R8= 159.0
+INFO:root:T= 1677662937.759835 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 164.0 R3= 152.0 R4= 175.0
+INFO:root:T= 1677662938.889837 | received turbidity readings for turbi set 2: R5= 208.0 R6= 173.0 R7= 179.0 R8= 164.0
+INFO:root:T= 1677662944.019844 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 168.0 R3= 150.0 R4= 181.0
+INFO:root:T= 1677662945.139846 | received turbidity readings for turbi set 2: R5= 204.0 R6= 172.0 R7= 185.0 R8= 158.0
+INFO:root:T= 1677662950.279853 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 168.0 R3= 149.0 R4= 177.0
+INFO:root:T= 1677662951.329854 | received turbidity readings for turbi set 2: R5= 199.0 R6= 176.0 R7= 184.0 R8= 161.0
+INFO:root:T= 1677662951.339854 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 164.5, 3: 151.16666666666666, 4: 178.0, 5: 201.83333333333334, 6: 173.16666666666666, 7: 182.83333333333334, 8: 161.16666666666666}
+INFO:root:T= 1677662951.349854 | applied calibration on turbidity readings average {1: 2, 2: 0.5714050509745476, 3: 0.5770675520175885, 4: 0.6464427921368547, 5: 0.7405757476429748, 6: 0.660088628671101, 7: 0.6857761736859933, 8: 0.5595065233139964}
+INFO:root:T= 1677662951.359854 | asked for command Valve B1 OFF
+INFO:root:T= 1677662951.369854 | finished for command Valve B1 OFF
+INFO:root:T= 1677662951.369854 | asked for command Valve B2 OFF
+INFO:root:T= 1677662951.379855 | finished for command Valve B2 OFF
+INFO:root:T= 1677662951.379855 | asked for command Valve B3 OFF
+INFO:root:T= 1677662951.389854 | finished for command Valve B3 OFF
+INFO:root:T= 1677662951.389854 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677662951.389854 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677662951.389854 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677662951.389854 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677662951.399855 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677662951.399855 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677662951.399855 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677662951.409854 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677662951.409854 | sending request gotobin to the ot2
+INFO:root:T= 1677662951.449855 | Finished request gotobin to the ot2
+INFO:root:T= 1677662951.449855 | sending request blink/2 to the ot2
+INFO:root:T= 1677662951.479855 | Finished request blink/2 to the ot2
+INFO:root:T= 1677662951.479855 | sending request blink/3 to the ot2
+INFO:root:T= 1677662951.499855 | Finished request blink/3 to the ot2
+INFO:root:T= 1677662956.319861 | asked for LEDs duty history all_reactors from time 0.000000
+INFO:root:T= 1677662957.3298628| Starting to check events
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 1
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 2
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 3
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 4
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 5
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 6
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 7
+INFO:root:T= 1677662957.3298628| Starting to check events of reactor id 8
+INFO:root:T= 1677662966.6098757| Pausing the session
+INFO:root:T= 1677662966.629876 | asked for shutting off all pumps and valves
+WARNING:root:useless shut off all coils, already all off, not doing anything
+INFO:root:T= 1677663124.200097 | sending request blink/1 to the ot2
+INFO:root:T= 1677663124.220097 | Finished request blink/1 to the ot2
+INFO:root:T= 1677663124.220097 | asked for command Valve B1 ON
+WARNING:root:reading Valve B1 state not successful, trying again
+INFO:root:T= 1677663127.250101 | finished for command Valve B1 ON
+INFO:root:T= 1677663127.250101 | asked for command Valve B2 ON
+INFO:root:T= 1677663127.260101 | finished for command Valve B2 ON
+INFO:root:T= 1677663127.260101 | asked for command Valve B3 ON
+INFO:root:T= 1677663127.270101 | finished for command Valve B3 ON
+INFO:root:T= 1677663127.270101 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677663128.370102 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 168.0 R3= 149.0 R4= 184.0
+INFO:root:T= 1677663129.490104 | received turbidity readings for turbi set 2: R5= 201.0 R6= 176.0 R7= 180.0 R8= 158.0
+INFO:root:T= 1677663134.590111 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 166.0 R3= 149.0 R4= 180.0
+INFO:root:T= 1677663135.670113 | received turbidity readings for turbi set 2: R5= 204.0 R6= 175.0 R7= 179.0 R8= 161.0
+INFO:root:T= 1677663140.780120 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 165.0 R3= 151.0 R4= 179.0
+INFO:root:T= 1677663141.870121 | received turbidity readings for turbi set 2: R5= 200.0 R6= 173.0 R7= 182.0 R8= 157.0
+INFO:root:T= 1677663147.010128 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 152.0 R4= 178.0
+INFO:root:T= 1677663148.120130 | received turbidity readings for turbi set 2: R5= 204.0 R6= 174.0 R7= 180.0 R8= 157.0
+INFO:root:T= 1677663153.260137 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 168.0 R3= 156.0 R4= 181.0
+INFO:root:T= 1677663154.360138 | received turbidity readings for turbi set 2: R5= 207.0 R6= 173.0 R7= 179.0 R8= 167.0
+INFO:root:T= 1677663159.480146 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 164.0 R3= 157.0 R4= 182.0
+INFO:root:T= 1677663160.580147 | received turbidity readings for turbi set 2: R5= 208.0 R6= 172.0 R7= 180.0 R8= 162.0
+INFO:root:T= 1677663160.590147 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 166.33333333333334, 3: 152.33333333333334, 4: 180.66666666666666, 5: 204.0, 6: 173.83333333333334, 7: 180.0, 8: 160.33333333333334}
+INFO:root:T= 1677663160.600147 | applied calibration on turbidity readings average {1: 2, 2: 0.5808442932398394, 3: 0.5833307988973404, 4: 0.6588416691951031, 5: 0.7498652833657209, 6: 0.6633028292233503, 7: 0.6724071356533656, 8: 0.5550214358112413}
+INFO:root:T= 1677663160.610147 | asked for command Valve B1 OFF
+INFO:root:T= 1677663160.620147 | finished for command Valve B1 OFF
+INFO:root:T= 1677663160.620147 | asked for command Valve B2 OFF
+INFO:root:T= 1677663160.630147 | finished for command Valve B2 OFF
+INFO:root:T= 1677663160.630147 | asked for command Valve B3 OFF
+INFO:root:T= 1677663160.640147 | finished for command Valve B3 OFF
+INFO:root:T= 1677663160.640147 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677663160.640147 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677663160.640147 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677663160.640147 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677663160.650147 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677663160.650147 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677663160.650147 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677663160.660147 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677663160.660147 | sending request gotobin to the ot2
+INFO:root:T= 1677663160.700147 | Finished request gotobin to the ot2
+INFO:root:T= 1677663160.700147 | sending request blink/2 to the ot2
+INFO:root:T= 1677663160.720147 | Finished request blink/2 to the ot2
+INFO:root:T= 1677663160.720147 | sending request blink/3 to the ot2
+INFO:root:T= 1677663160.750148 | Finished request blink/3 to the ot2
+INFO:root:T= 1677663165.720155 | asked for LEDs duty history all_reactors from time 0.000000
+INFO:root:T= 1677663166.740156| Starting to check events
+INFO:root:T= 1677663166.740156| Starting to check events of reactor id 1
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 2
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 3
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 4
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 5
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 6
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 7
+INFO:root:T= 1677663166.750156| Starting to check events of reactor id 8
+INFO:root:T= 1677663200.060203 | asked for shutting off all pumps and valves
+WARNING:root:useless shut off all coils, already all off, not doing anything

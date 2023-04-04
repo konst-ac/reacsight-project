@@ -1,0 +1,18 @@
+INFO:root:T=1651670474.27945 | domain=GLOBAL | msg=opto-cyto-reactors cod git id =5bd4dd78ac6acb02da07ca9952f93ca036c8ab53
+INFO:root:T= 1651670486.639467| Pinching front valves
+INFO:root:T= 1651670486.639467 | asked for command Valve F1 ON
+INFO:root:T= 1651670486.659467 | finished for command Valve F1 ON
+INFO:root:T= 1651670486.659467 | asked for command Valve F2 ON
+INFO:root:T= 1651670486.669467 | finished for command Valve F2 ON
+INFO:root:T= 1651670486.669467 | asked for command Valve F3 ON
+INFO:root:T= 1651670486.689467 | finished for command Valve F3 ON
+INFO:root:T= 1651670486.689467 | asked for command Valve F4 ON
+INFO:root:T= 1651670486.699467 | finished for command Valve F4 ON
+INFO:root:T= 1651670486.699467 | asked for command Valve F5 ON
+INFO:root:T= 1651670486.709467 | finished for command Valve F5 ON
+INFO:root:T= 1651670486.709467 | asked for command Valve F6 ON
+INFO:root:T= 1651670486.719467 | finished for command Valve F6 ON
+INFO:root:T= 1651670486.719467 | asked for command Valve F7 ON
+INFO:root:T= 1651670486.729467 | finished for command Valve F7 ON
+INFO:root:T= 1651670486.729467 | asked for command Valve F8 ON
+INFO:root:T= 1651670486.739467 | finished for command Valve F8 ON

@@ -1,0 +1,6 @@
+INFO:root:T=1651650484.9104636 | domain=GLOBAL | msg=opto-cyto-reactors cod git id =5bd4dd78ac6acb02da07ca9952f93ca036c8ab53
+INFO:root:T= 1651650566.650578| Pinching front valves
+INFO:root:T= 1651650566.650578 | sending request gotobin to the ot2
+INFO:root:T= 1651650662.570712 | sending request gotobin to the ot2
+INFO:root:T= 1651650714.350785 | asked for shutting off all pumps and valves
+WARNING:root:useless shut off all coils, already all off, not doing anything

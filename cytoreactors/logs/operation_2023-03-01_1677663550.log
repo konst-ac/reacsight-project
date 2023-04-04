@@ -1,0 +1,163 @@
+INFO:root:T=1677663550.961694 | domain=GLOBAL | msg=opto-cyto-reactors cod git id =5bd4dd78ac6acb02da07ca9952f93ca036c8ab53
+INFO:root:T= 1677663558.181704| Pinching front valves
+INFO:root:T= 1677663558.181704 | asked for command Valve F1 ON
+INFO:root:T= 1677663558.201704 | finished for command Valve F1 ON
+INFO:root:T= 1677663558.201704 | asked for command Valve F2 ON
+INFO:root:T= 1677663558.211704 | finished for command Valve F2 ON
+INFO:root:T= 1677663558.211704 | asked for command Valve F3 ON
+INFO:root:T= 1677663558.221704 | finished for command Valve F3 ON
+INFO:root:T= 1677663558.221704 | asked for command Valve F4 ON
+WARNING:root:T= 1677663558.231704 | command Valve F4 ON not successful, trying again
+INFO:root:T= 1677663558.241704 | finished for command Valve F4 ON
+INFO:root:T= 1677663558.241704 | asked for command Valve F5 ON
+INFO:root:T= 1677663558.261704 | finished for command Valve F5 ON
+INFO:root:T= 1677663558.261704 | asked for command Valve F6 ON
+INFO:root:T= 1677663558.271704 | finished for command Valve F6 ON
+INFO:root:T= 1677663558.271704 | asked for command Valve F7 ON
+INFO:root:T= 1677663558.281704 | finished for command Valve F7 ON
+INFO:root:T= 1677663558.281704 | asked for command Valve F8 ON
+INFO:root:T= 1677663558.291704 | finished for command Valve F8 ON
+INFO:root:T= 1677663558.441705| Pinching front valves
+INFO:root:T= 1677663558.441705 | asked for command Valve F1 OFF
+INFO:root:T= 1677663558.451704 | finished for command Valve F1 OFF
+INFO:root:T= 1677663558.451704 | asked for command Valve F2 OFF
+INFO:root:T= 1677663558.461704 | finished for command Valve F2 OFF
+INFO:root:T= 1677663558.461704 | asked for command Valve F3 OFF
+INFO:root:T= 1677663558.471704 | finished for command Valve F3 OFF
+INFO:root:T= 1677663558.471704 | asked for command Valve F4 OFF
+INFO:root:T= 1677663558.481704 | finished for command Valve F4 OFF
+INFO:root:T= 1677663558.481704 | asked for command Valve F5 OFF
+INFO:root:T= 1677663558.491704 | finished for command Valve F5 OFF
+INFO:root:T= 1677663558.491704 | asked for command Valve F6 OFF
+INFO:root:T= 1677663558.501704 | finished for command Valve F6 OFF
+INFO:root:T= 1677663558.501704 | asked for command Valve F7 OFF
+INFO:root:T= 1677663558.511705 | finished for command Valve F7 OFF
+INFO:root:T= 1677663558.511705 | asked for command Valve F8 OFF
+INFO:root:T= 1677663558.521704 | finished for command Valve F8 OFF
+INFO:root:T= 1677663562.041709 | asked for opening Valve B1 for duration 10.000000 seconds
+INFO:root:T= 1677663562.041709 | asked for command Valve B1 ON
+INFO:root:T= 1677663562.051709 | finished for command Valve B1 ON
+INFO:root:T= 1677663562.051709 | asked for opening Valve B2 for duration 10.000000 seconds
+INFO:root:T= 1677663562.051709 | asked for command Valve B2 ON
+INFO:root:T= 1677663562.061710 | finished for command Valve B2 ON
+INFO:root:T= 1677663562.061710 | asked for opening Valve B3 for duration 10.000000 seconds
+INFO:root:T= 1677663562.061710 | asked for command Valve B3 ON
+INFO:root:T= 1677663562.071709 | finished for command Valve B3 ON
+INFO:root:T= 1677663562.071709 | asked for opening Valve B4 for duration 10.000000 seconds
+INFO:root:T= 1677663562.071709 | asked for command Valve B4 ON
+INFO:root:T= 1677663562.081710 | finished for command Valve B4 ON
+INFO:root:T= 1677663572.051723 | asked for command Valve B1 OFF
+INFO:root:T= 1677663572.061723 | asked for command Valve B2 OFF
+INFO:root:T= 1677663572.061723 | finished for command Valve B1 OFF
+INFO:root:T= 1677663572.071723 | asked for command Valve B3 OFF
+INFO:root:T= 1677663572.071723 | finished for command Valve B2 OFF
+INFO:root:T= 1677663572.081723 | finished for command Valve B3 OFF
+INFO:root:T= 1677663572.091723 | asked for command Valve B4 OFF
+INFO:root:T= 1677663572.091723 | sending request blink/1 to the ot2
+INFO:root:T= 1677663572.111723 | finished for command Valve B4 OFF
+INFO:root:T= 1677663572.121724 | Finished request blink/1 to the ot2
+INFO:root:T= 1677663572.121724 | asked for command Valve B1 ON
+INFO:root:T= 1677663572.141724 | finished for command Valve B1 ON
+INFO:root:T= 1677663572.141724 | asked for command Valve B2 ON
+INFO:root:T= 1677663572.151724 | finished for command Valve B2 ON
+INFO:root:T= 1677663572.151724 | asked for command Valve B3 ON
+INFO:root:T= 1677663572.161724 | finished for command Valve B3 ON
+INFO:root:T= 1677663572.161724 | asked for turbidity readings for turbi sets {1, 2}
+INFO:root:T= 1677663573.301725 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 163.0 R3= 150.0 R4= 175.0
+INFO:root:T= 1677663574.451727 | received turbidity readings for turbi set 2: R5= 213.0 R6= 174.0 R7= 181.0 R8= 168.0
+INFO:root:T= 1677663579.571734 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 166.0 R3= 150.0 R4= 180.0
+INFO:root:T= 1677663580.631736 | received turbidity readings for turbi set 2: R5= 209.0 R6= 169.0 R7= 183.0 R8= 165.0
+INFO:root:T= 1677663585.761743 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 164.0 R3= 149.0 R4= 175.0
+INFO:root:T= 1677663586.841744 | received turbidity readings for turbi set 2: R5= 207.0 R6= 173.0 R7= 183.0 R8= 162.0
+INFO:root:T= 1677663591.951751 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 161.0 R3= 149.0 R4= 180.0
+INFO:root:T= 1677663593.041753 | received turbidity readings for turbi set 2: R5= 210.0 R6= 174.0 R7= 180.0 R8= 163.0
+INFO:root:T= 1677663598.171760 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 167.0 R3= 147.0 R4= 174.0
+INFO:root:T= 1677663599.221761 | received turbidity readings for turbi set 2: R5= 206.0 R6= 171.0 R7= 184.0 R8= 164.0
+INFO:root:T= 1677663604.281769 | received turbidity readings for turbi set 1: R1= 1023.0 R2= 164.0 R3= 150.0 R4= 177.0
+INFO:root:T= 1677663605.381770 | received turbidity readings for turbi set 2: R5= 212.0 R6= 172.0 R7= 184.0 R8= 167.0
+INFO:root:T= 1677663605.391770 | computed average of 6 turbidity readings after excluding 0 highest {1: 1023.0, 2: 164.16666666666666, 3: 149.16666666666666, 4: 176.83333333333334, 5: 209.5, 6: 172.16666666666666, 7: 182.5, 8: 164.83333333333334}
+INFO:root:T= 1677663605.401770 | applied calibration on turbidity readings average {1: 2, 2: 0.5696775283373814, 3: 0.5662172412638311, 4: 0.6409597626798607, 5: 0.7730103419996528, 6: 0.6552440514357301, 7: 0.6842141399656709, 8: 0.5789692783251148}
+INFO:root:T= 1677663605.411770 | asked for command Valve B1 OFF
+INFO:root:T= 1677663605.421770 | finished for command Valve B1 OFF
+INFO:root:T= 1677663605.421770 | asked for command Valve B2 OFF
+INFO:root:T= 1677663605.431770 | finished for command Valve B2 OFF
+INFO:root:T= 1677663605.431770 | asked for command Valve B3 OFF
+INFO:root:T= 1677663605.441770 | finished for command Valve B3 OFF
+INFO:root:T= 1677663605.441770 | asked for command Valve F1 OFF
+WARNING:root:useless (state already as asked) command asked Valve F1 OFF, so not doing it
+INFO:root:T= 1677663605.441770 | asked for command Valve F2 OFF
+WARNING:root:useless (state already as asked) command asked Valve F2 OFF, so not doing it
+INFO:root:T= 1677663605.441770 | asked for command Valve F3 OFF
+WARNING:root:useless (state already as asked) command asked Valve F3 OFF, so not doing it
+INFO:root:T= 1677663605.451770 | asked for command Valve F4 OFF
+WARNING:root:useless (state already as asked) command asked Valve F4 OFF, so not doing it
+INFO:root:T= 1677663605.451770 | asked for command Valve F5 OFF
+WARNING:root:useless (state already as asked) command asked Valve F5 OFF, so not doing it
+INFO:root:T= 1677663605.451770 | asked for command Valve F6 OFF
+WARNING:root:useless (state already as asked) command asked Valve F6 OFF, so not doing it
+INFO:root:T= 1677663605.461770 | asked for command Valve F7 OFF
+WARNING:root:useless (state already as asked) command asked Valve F7 OFF, so not doing it
+INFO:root:T= 1677663605.461770 | asked for command Valve F8 OFF
+WARNING:root:useless (state already as asked) command asked Valve F8 OFF, so not doing it
+INFO:root:T= 1677663605.461770 | sending request gotobin to the ot2
+INFO:root:T= 1677663605.511770 | Finished request gotobin to the ot2
+INFO:root:T= 1677663605.511770 | asked for opening Pump H1 for duration 12.000000 seconds
+INFO:root:T= 1677663605.511770 | asked for command Pump H1 ON
+INFO:root:T= 1677663605.521770 | finished for command Pump H1 ON
+INFO:root:T= 1677663605.521770 | asked for opening Pump H2 for duration 12.000000 seconds
+INFO:root:T= 1677663605.521770 | asked for command Pump H2 ON
+INFO:root:T= 1677663605.531770 | finished for command Pump H2 ON
+INFO:root:T= 1677663605.531770 | asked for opening Pump H3 for duration 12.000000 seconds
+INFO:root:T= 1677663605.531770 | asked for command Pump H3 ON
+INFO:root:T= 1677663605.541770 | finished for command Pump H3 ON
+INFO:root:T= 1677663605.541770 | asked for opening Pump H4 for duration 12.000000 seconds
+INFO:root:T= 1677663605.541770 | asked for command Pump H4 ON
+INFO:root:T= 1677663605.551770 | finished for command Pump H4 ON
+INFO:root:T= 1677663605.551770 | asked for opening Pump H5 for duration 12.000000 seconds
+INFO:root:T= 1677663605.551770 | asked for command Pump H5 ON
+INFO:root:T= 1677663605.561770 | finished for command Pump H5 ON
+INFO:root:T= 1677663605.561770 | asked for opening Pump H6 for duration 12.000000 seconds
+INFO:root:T= 1677663605.561770 | asked for command Pump H6 ON
+INFO:root:T= 1677663605.571770 | finished for command Pump H6 ON
+INFO:root:T= 1677663605.571770 | asked for opening Pump H7 for duration 12.000000 seconds
+INFO:root:T= 1677663605.571770 | asked for command Pump H7 ON
+INFO:root:T= 1677663605.581770 | finished for command Pump H7 ON
+INFO:root:T= 1677663605.581770 | asked for opening Pump H8 for duration 12.000000 seconds
+INFO:root:T= 1677663605.581770 | asked for command Pump H8 ON
+INFO:root:T= 1677663605.591770 | finished for command Pump H8 ON
+INFO:root:T= 1677663617.521787 | asked for command Pump H1 OFF
+INFO:root:T= 1677663617.531787 | finished for command Pump H1 OFF
+INFO:root:T= 1677663617.541787 | asked for command Pump H2 OFF
+INFO:root:T= 1677663617.551787 | asked for command Pump H3 OFF
+INFO:root:T= 1677663617.551787 | asked for command Pump H4 OFF
+INFO:root:T= 1677663617.551787 | finished for command Pump H2 OFF
+INFO:root:T= 1677663617.561787 | finished for command Pump H3 OFF
+INFO:root:T= 1677663617.571787 | asked for command Pump H5 OFF
+INFO:root:T= 1677663617.571787 | finished for command Pump H4 OFF
+INFO:root:T= 1677663617.581787 | asked for command Pump H7 OFF
+INFO:root:T= 1677663617.581787 | asked for command Pump H6 OFF
+INFO:root:T= 1677663617.581787 | finished for command Pump H5 OFF
+INFO:root:T= 1677663617.601787 | asked for command Pump H8 OFF
+INFO:root:T= 1677663617.601787 | finished for command Pump H6 OFF
+INFO:root:T= 1677663617.601787 | finished for command Pump H7 OFF
+INFO:root:T= 1677663617.621787 | finished for command Pump H8 OFF
+INFO:root:T= 1677663617.621787 | sending request blink/2 to the ot2
+INFO:root:T= 1677663617.651787 | Finished request blink/2 to the ot2
+INFO:root:T= 1677663617.651787 | asked for opening Pump L1 for duration 3.000000 seconds
+INFO:root:T= 1677663617.651787 | asked for command Pump L1 ON
+INFO:root:T= 1677663617.661788 | finished for command Pump L1 ON
+INFO:root:T= 1677663617.661788 | asked for opening Pump L3 for duration 3.000000 seconds
+INFO:root:T= 1677663617.661788 | asked for command Pump L3 ON
+INFO:root:T= 1677663617.671787 | finished for command Pump L3 ON
+INFO:root:T= 1677663617.671787 | asked for opening Pump L4 for duration 3.000000 seconds
+INFO:root:T= 1677663617.671787 | asked for command Pump L4 ON
+INFO:root:T= 1677663617.681787 | finished for command Pump L4 ON
+INFO:root:T= 1677663620.671792 | asked for command Pump L1 OFF
+INFO:root:T= 1677663620.671792 | asked for command Pump L3 OFF
+INFO:root:T= 1677663620.681792 | finished for command Pump L1 OFF
+INFO:root:T= 1677663620.681792 | finished for command Pump L3 OFF
+INFO:root:T= 1677663620.691792 | asked for command Pump L4 OFF
+INFO:root:T= 1677663620.701792 | finished for command Pump L4 OFF
+INFO:root:T= 1677663620.701792 | sending request blink/3 to the ot2
+INFO:root:T= 1677663620.741791 | Finished request blink/3 to the ot2
+ERROR:root:Something went wrong (error: [Errno 2] No such file or directory: 'experiment-data/Sara/Troyan_Yeast/2023-02-28_Characterization/reactor-data/reactor-5/blanks.csv'). Main loop continues, BE CAREFUL / CHECK
